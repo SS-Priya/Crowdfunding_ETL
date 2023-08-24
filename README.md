@@ -47,7 +47,7 @@ In this project, we are working on the following tasks:
 - [Partner 1 Name](https://github.com/day-dreamer-89)
 - [Partner 2 Name](https://github.com/SS-Priya)
 - [Partner 3 Name](https://github.com/tamika-fj)
-- [Partner 2 Name](https://github.com/)
+- [Partner 2 Name](https://github.com/janceldawn)
 ​
 ## Resources
 ​
